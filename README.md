@@ -2,7 +2,7 @@
   This is for education purposes only!!! I do NOT condone use of this for illegal purposes. Usk at your own risk. I am not responsible for your actions.
   
 # Requirements
-  Python 3.8 or later
+  [Python](https://www.python.org/downloads/) 3.8 or later
   
 # Use
   This script is written to allow you to use cookie info to access your OnlyFans subscriptions so you can download a creators content to your local machine.
