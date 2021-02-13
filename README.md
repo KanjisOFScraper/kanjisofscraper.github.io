@@ -3,6 +3,7 @@
   
 # Use
   This script is written to allow you to use cookie info to access your OnlyFans subscriptions so you can download a creators content to your local machine.
+  THE SCRAPER ONLY WORKS IF YOU HAVE ACTIVE SUBCRIPTIONS!!! If you do not have an active sub to the person who you want to scrape the content from, the scraper won't work. You won't get free content with this!!!!
   
   After you download everything from this github, go into the /.settings folder and open the 'config.json' file and fill in the info you need.
   
