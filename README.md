@@ -6,10 +6,10 @@
   
   After you download everything from this github, go into the /.settings folder and open the 'config.json' file and fill in the info you need.
   
-    -username
-    -auth_id
-    -sess
-    -fp
+    - username
+    - auth_id
+    - sess
+    - fp
     
   Once that is filed out, you can start run the 'start_ofd.py' file. Done.
   
