@@ -5,6 +5,7 @@
   This script is written to allow you to use cookie info to access your OnlyFans subscriptions so you can download a creators content to your local machine.
   
   After you download everything from this github, go into the /.settings folder and open the 'config.json' file and fill in the info you need.
+  
     -username
     -auth_id
     -sess
